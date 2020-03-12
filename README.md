@@ -22,12 +22,21 @@ The general outline for conducting such an analysis goes as follows...
 
 Here are a bunch of resources I found which helped me with this project:
 
-[The Galaxy Project](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.html)
+[The Galaxy Project's RNA-seq heatmap tutorial](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.html)
+
 [EdgeR User Guide](https://www.bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
+
 [Dave Tang's EdgeR Normalisation guide](https://davetang.org/muse/2011/01/24/normalisation-methods-for-dge-data/)
+
 [Dave Tang's Pheatmap guide](https://davetang.org/muse/2018/05/15/making-a-heatmap-in-r-with-the-pheatmap-package/)
+
 [Kamil Slowikowski's Pheatmap guide](https://slowkow.com/notes/pheatmap-tutorial/)
+
 [Pheatmap documentation](https://cran.r-project.org/web/packages/pheatmap/pheatmap.pdf)
+
 [Zuguang Gu's ComplexHeatmap Reference Book](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
+
 [Normalizing RNAseq Data](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-3-r25)
+
 [DESeq2 tutorial](http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+
