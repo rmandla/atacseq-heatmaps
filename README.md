@@ -19,7 +19,7 @@ The general outline for conducting such an analysis goes as follows...
 
 ## Example
 
-I go through all of the above steps, as well as a tutorial using sampled data in the `tutorial.ipyng` file in Python. Check it out if you get stuck.
+I go through all of the above steps, as well as a tutorial using sampled data in the `tutorial.ipynb` file in Python. Check it out if you get stuck.
 
 ## Resources
 
