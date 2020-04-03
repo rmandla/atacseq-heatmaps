@@ -1,10 +1,10 @@
-# Constructing Heat Maps to visualize ATAC-Seq results
+# Constructing Heat Maps to visualize Sequencing Data
 
 ##### Ravi Mandla
 
 ##### Last Updated on 04/03/2020
 
-Heat maps are a great tool to compare the read counts of sequencing experiments in different populations, often used in RNA-seq experiments to visualize the gene expression differences between different populations (there's a great tutorial on doing through the [galaxy project](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.html)). However, the use of heat maps in such a way is not restricted to just RNA-seq experiments, and can be used in a wide range of sequencing experiments. I recently worked on a project where I was asked to create such a heat map comparing ATAC-seq data from two distinct cell populations, and struggled to find online resources on doing such experiments. I hope this tutorial will be useful for those in similar situations :)
+Heat maps are a great tool to compare the read counts of sequencing experiments in different populations, often used in RNA-seq experiments to visualize the gene expression differences between different populations (there's a great tutorial on doing through the [galaxy project](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.html)). However, the use of heat maps in such a way is not restricted to just RNA-seq experiments, and can be used in a wide range of sequencing experiments. I recently worked on a project where I was asked to create such a heat map comparing ATAC-seq data from two distinct cell populations, and struggled to find online resources on doing such experiments. Additionally, I found almost no python code on analyzing sequencing data, with most being written in R. I hope this tutorial will be useful for those in similar situations :)
 
 ## Steps
 
